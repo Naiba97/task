@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page {
+  background-image: url(../assets/images/background.jpg);
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: 100vw 100%;
+}
+
+.container {
+  padding-top: 20%;
+}
+.container-title {
+  font-size: 30px;
+  color: rgb(77, 107, 241);
+}
+
+.centered {
+  text-align: center;
+  margin-bottom: 10px;
+}/*# sourceMappingURL=style.css.map */
